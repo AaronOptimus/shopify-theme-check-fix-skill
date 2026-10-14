@@ -8,6 +8,6 @@ Copy `shopify-theme-check-fix/` into `~/.claude/skills/` (Claude Code) or your p
 Requires the Shopify CLI (`npm install -g @shopify/cli`).
 
 ## Want more?
-This skill is one of six in the **Shopify Freelancer Skill Pack**: section builder, client-ready store audit, App Store review prep, metafields wiring, and handoff docs. [Get the full pack]([LINK])
+This skill is one of six in the **Shopify Freelancer Skill Pack**: section builder, client-ready store audit, App Store review prep, metafields wiring, and handoff docs. [Get the full pack](https://tuttler05.gumroad.com/l/xdljum) ($39, six skills)
 
 License: MIT (this skill only; the full pack has its own license).
