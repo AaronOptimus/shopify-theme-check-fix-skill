@@ -1,0 +1,14 @@
+{
+  "name": "shopify-theme-check-fix",
+  "description": "Agent skill that runs Shopify Theme Check on a Liquid theme, fixes the safe offenses with minimal diffs and lists the risky ones for you to decide.",
+  "author": {
+    "name": "AaronOptimus",
+    "url": "https://github.com/AaronOptimus"
+  },
+  "homepage": "https://github.com/AaronOptimus/shopify-theme-check-fix-skill",
+  "repository": "https://github.com/AaronOptimus/shopify-theme-check-fix-skill",
+  "documentationUrl": "https://github.com/AaronOptimus/shopify-theme-check-fix-skill#readme",
+  "supportUrl": "https://github.com/AaronOptimus/shopify-theme-check-fix-skill/issues",
+  "license": "MIT",
+  "keywords": ["shopify", "shopify-theme", "theme-check", "liquid", "agent-skills", "skill-md"]
+}
