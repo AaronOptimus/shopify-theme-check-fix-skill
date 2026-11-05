@@ -1,0 +1,15 @@
+{
+  "name": "aaronoptimus-skills",
+  "description": "Free agent skills by AaronOptimus.",
+  "owner": {
+    "name": "AaronOptimus",
+    "url": "https://github.com/AaronOptimus"
+  },
+  "plugins": [
+    {
+      "name": "shopify-theme-check-fix",
+      "source": "./",
+      "description": "Runs Shopify Theme Check on a Liquid theme, fixes the safe offenses with minimal diffs and lists the risky ones for you to decide."
+    }
+  ]
+}
